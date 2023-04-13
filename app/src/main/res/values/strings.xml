@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dz_Android</string>
+    <string name="first_row">Grocery list</string>
+    <string name="second_row">Project outline</string>
+    <string name="third_row">Features</string>
+    <string name="four_row">UI/UX</string>
+    <string name="five_row">Development</string>
+</resources>
